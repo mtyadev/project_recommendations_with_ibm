@@ -8,7 +8,7 @@ Building a recommendation engine for articles on the IBM Watson Studio platform.
 
 # Project Motivation
 
-As part of the udacity <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025">data scientist nano degree programm</a> I am developing a recommendation engine, show-casing the following:
+As part of the udacity <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025">data scientist nano degree programm</a> I am developing the recommendation engine, show-casing the following approaches:
 
 1. Exploratory Data Analysis
 2. Rank based Recommendations
