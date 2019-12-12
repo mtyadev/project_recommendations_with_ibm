@@ -1,5 +1,5 @@
 # project_recommendations_with_ibm
-Building a recommendation engine for articles on the IBM Watson Studio platform. The goal is to leverage machine learning best practices to suggest new articles users like given their platform usage.  
+Building a recommendation engine for articles on the IBM Watson Studio platform. The goal is to leverage machine learning best practices to suggest new articles users will like given their platform usage.  
 
 # Installation
 
